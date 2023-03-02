@@ -8,7 +8,7 @@ At the end of the class you can write here a final thought on the exercise and o
 ## Links to the exercises done today 
 
 - [Link to my GitHub Repository for today](https://vanessabcs.github.io/DHExercise/) and [GitHub Pages](https://vanessabcs.github.io/)
-- [Link to my HTML and CSS files]()
+- [Link to my HTML and CSS files](https://vanessabcs.github.io/DHExercise/exercise2)
 - [Link to Pandoc transformations]()
 - [Link to my Bibliography]()
 
